@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="intro">
+        "\nHello, dear friend!\n\n"
+        "In order to understand the situation of college students playing online "
+        "games, and the impact of online games on college students, would you"
+        "like to spare a few minutes to answer the following questions in this "
+        "questionnaire carefully and authentically! We will inform you that your answers"
+        "will be kept strictly confidential!\n\n"
+        "Thank you very much for your support and cooperation!\n"</string>
+    <string name="start">"Click Here To Start"</string>
+</resources>
