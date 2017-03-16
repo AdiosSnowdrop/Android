@@ -1,0 +1,8 @@
+<fragment xmlns:andorid="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    andorid:id="@+id/fragment"
+    andorid:name="com.cqu.xiang.weather.MainActivityFragment"
+    andorid:layout_width="match_parent"
+    andorid:layout_height="match_parent"
+    tools:layout="@layout/fragmennt_layout" />
+
